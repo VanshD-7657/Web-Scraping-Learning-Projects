@@ -30,17 +30,17 @@ Web-Scraping/
 
 ## 🚀 About the Projects
 
+### 🛍️ Flipkart Product Data
+
+* **Objective:** Extract product details like Product Name, Price, Rating and Description from Flipkart search results.
+* **Tools Used:** `BeautifulSoup`, `requests`, `pandas`
+* **Output:** A CSV file flipkart_vivo_mobiles.csv contained all the Scraped data of the Mobiles on Flipkart.
+
 ### 🏏 IPL Auction 2025 Record
 
 * **Objective:** Scrape player details (name, team, price, role, etc.) from the official IPL auction website.
 * **Tools Used:** `BeautifulSoup`, `requests`, `pandas`
-* **Output:** A structured CSV file containing all player data for easy analysis.
-
-### 🛍️ Flipkart Product Data
-
-* **Objective:** Extract product details like title, price, and rating from Flipkart search results.
-* **Tools Used:** `BeautifulSoup`, `requests`, `pandas`
-* **Output:** A CSV file containing scraped product information for further use or analysis.
+* **Output:** A structured CSV file IplAuctionRecord contained all player data for easy analysis.
 
 ---
 
