@@ -21,7 +21,7 @@ Web-Scraping/
 │   │   └── Script that scrapes IPL Auction 2025 player data and stores it in a CSV file.
 │   │
 │   └── 📁 Flipkart_Data_Record/
-│       └── Script that extracts product details (name, price, rating, etc.) from Flipkart and saves them in a CSV file.
+│       └── Script that extracts product details (Name, Price, Rating and Description ) from Flipkart and saves them in a CSV file.
 │
 └── README.md
 ```
@@ -74,7 +74,7 @@ The **Learning** folder contains step-by-step scripts and experiments I created 
 
 **Vansh Dhall**
 Data Science Enthusiast | Machine Learning Learner | Open Source Contributor
-
+If you like this Repo then please give a star.
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vansh-dhall-703111363/)
 
 ---
